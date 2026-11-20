@@ -1,0 +1,6 @@
+# This repo contains only the public static site — nothing sensitive.
+# Keep OS/editor noise out.
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
