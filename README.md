@@ -4,7 +4,7 @@ Static website for an undergraduate capstone project (Escola Politécnica, Unive
 São Paulo): can a multi-agent defense detect **logic trojans** that large language models
 insert into financial code, and does the way the agents are combined matter?
 
-**Live site:** https://YOUR-USER.github.io/YOUR-REPO/  ← update after enabling Pages
+**Live site:** https://ygor-acacio.github.io/trojans-llm-site/ 
 
 ## What this repository is
 
